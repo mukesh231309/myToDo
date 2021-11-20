@@ -25,7 +25,8 @@ dependencies:
     sdk: flutter
   firebase_auth: 
   
-  cloud_firestore: 
+  cloud_firestore:
+ 
   google_fonts:
   intl:
   fluttertoast:
